@@ -31,5 +31,9 @@ CREATE TABLE files (
 ```
 ```bash
 npm install
+```
+```
+postman.json - для тестов на Postman
+```
 
 
