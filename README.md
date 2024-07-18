@@ -10,6 +10,7 @@
 Настройка базы данных
 Создайте базу данных и таблицы в MySQL. Используйте следующие команды:
 
+```
 CREATE DATABASE erp_aero;
 
 USE erp_aero;
@@ -27,7 +28,7 @@ CREATE TABLE files (
     size INT NOT NULL,
     upload_date DATETIME NOT NULL
 );
-
+```
 ```bash
 npm install
 
